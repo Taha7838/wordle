@@ -1,5 +1,4 @@
 import 'package:equatable/equatable.dart';
-import 'package:flip_card/flip_card.dart';
 import 'package:flutter/material.dart';
 import 'package:wordle/colors.dart';
  

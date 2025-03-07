@@ -15,7 +15,7 @@ class _HomescreenState extends State<Wordlescreen> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        backgroundColor: Colors.teal[800],
+        backgroundColor: Colors.transparent,
         title: Text('Wordle',
         style: TextStyle(
           color: Colors.white,
